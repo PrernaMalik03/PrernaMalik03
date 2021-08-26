@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PrernaMalik03
+- 👀 I’m interested in learning new things and android development
+- 🌱 I’m currently learning android jetpack
+- 💞️ I’m looking to collaborate on simple android apps
+- 📫 How to reach me : Email me on prernamalik03@gmail.com
